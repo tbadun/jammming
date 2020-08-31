@@ -2,7 +2,7 @@ import React from 'react';
 import './SearchResults.css';
 import TrackList from '../TrackList/Tracklist';
 
-class SearchResults extends React.Compnent {
+class SearchResults extends React.Component {
     render() {
         return (
             <div className="SearchResults">
